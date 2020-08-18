@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+.painel{
+    margin-bottom: 15px;
+    background: #005a82;
+    text-decoration: white;
+
+}
+
+h3{
+    color: white;
+    margin: 0px;
+
+}
+
+/*h3#usuario{
+    color: white;
+    margin: 0px;
+    text-align: right;
+
+}*/
+
+.pgprinc{
+    margin-bottom: 20px;
+}
+
+.tabv01{
+    margin-top: 10px;
+    font-size: 10pt;
+}
+
+.tab01{
+
+
+}
+
+.ip{
+    background-color: #ffffcd !important;
+}
+
+.btn{
+    background: #005a82 !important; 
+    color: white !important;
+}
